@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*.pyc
+*.csv  # Optional: if the Airbnb.csv is large, better not to commit it
+# Or keep the CSV if it's small and essential
